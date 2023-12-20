@@ -1,1 +1,2 @@
-Used PHP, TailwindCSS, MySQL
+##Stack
+PHP, TailwindCSS, MySQL
