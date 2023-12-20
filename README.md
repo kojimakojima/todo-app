@@ -1,2 +1,2 @@
-##Stack
+## Stack
 PHP, TailwindCSS, MySQL
