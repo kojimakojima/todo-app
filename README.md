@@ -1,0 +1,1 @@
+Used PHP, TailwindCSS, MySQL
